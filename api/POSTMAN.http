@@ -1,0 +1,30 @@
+### ORDERS
+
+### GET ALL ORDERS
+
+GET http://localhost:5000/api/orders
+
+### GET ORDER BY USER ID
+
+GET http://localhost:5000/api/orders/1
+
+### GET ORDER BY SHIPPING ID
+
+GET http://localhost:5000/api/orders/shipping/1
+
+### GET ORDER BY STATUS ID
+
+GET http://localhost:5000/api/orders/status/1
+
+
+### USERS
+
+
+### GET ALL USERS
+
+GET http://localhost:5000/api/users
+
+### GET ONE USER
+
+GET http://localhost:5000/api/users/1
+
